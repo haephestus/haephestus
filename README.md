@@ -6,17 +6,17 @@
 CS50x - intro to computer science(completed)
 CS50 - intro to cyber security(ongoing)
 
-# Languages and Frameworks/Libraries
+## Languages and Frameworks/Libraries
 - Dart(Flutter)
 - Python (Fast API, langchain)
 - Java (Forge modding - Minecraft)
 - C/C++
 
-# My favorite projects 
+## My favorite projects 
 (find them in the pinned section below)
 - Cerebrum - a learning platform designed to promote continuous learning beyond formal eduaction
 - ImmersiveHealth - a Minecraft mod aimed at simulating real-life health and physiological systems
 
-# My hobbies
+### My hobbies
 reading & writing(blog coming soon) - java modding - rock climbing - jogging - gym - art - gaming - anime - Science(math, physics and chemsitry)
 
